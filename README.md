@@ -5,15 +5,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="/screenshots/Angular10-QR-Code-ng --version.jpg" />
+<img src="/screenshots/Angular10-QR-Code-ng --version.JPEG" />
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="/screenshots/Angular10-QR-Code-ng serve.jpg" />
+<img src="/screenshots/Angular10-QR-Code-ng serve.JPEG" />
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="/screenshots/Angular10-QR-Code-Home-Page.jpg" />
+<img src="/screenshots/Angular10-QR-Code-Home-Page.JPEG" />
 
 -----------------------------------------------------------------------------------------------------
 
@@ -41,3 +41,10 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+### From Developer
+
+Made with :heart: by Pranam Bhat. Follow me on https://www.linkedin.com/in/pranam-bhat-11670689/
+
+For any queries : pranam707@gmail.com
+

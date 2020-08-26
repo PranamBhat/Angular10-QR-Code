@@ -1,6 +1,22 @@
-# Angular10QRCode
+# Angular10 QR Code Generator
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
+
+
+-----------------------------------------------------------------------------------------------------
+
+<img src="/screenshots/Angular10-QR-Code-ng --version.jpg" />
+
+-----------------------------------------------------------------------------------------------------
+
+<img src="/screenshots/Angular10-QR-Code-ng serve.jpg" />
+
+-----------------------------------------------------------------------------------------------------
+
+<img src="/screenshots/Angular10-QR-Code-Home-Page.jpg" />
+
+-----------------------------------------------------------------------------------------------------
+
 
 ## Development server
 

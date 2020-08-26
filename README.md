@@ -5,15 +5,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="/screenshots/Angular10-QR-Code-ng --version.JPEG" />
+<img src="/screenshots/Angular10-QR-Code-ng --version.JPG" />
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="/screenshots/Angular10-QR-Code-ng serve.JPEG" />
+<img src="/screenshots/Angular10-QR-Code-ng serve.JPG" />
 
 -----------------------------------------------------------------------------------------------------
 
-<img src="/screenshots/Angular10-QR-Code-Home-Page.JPEG" />
+<img src="/screenshots/Angular10-QR-Code-Home-Page.JPG" />
 
 -----------------------------------------------------------------------------------------------------
 
